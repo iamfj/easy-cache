@@ -1,0 +1,39 @@
+{
+  "name": "easy-cache",
+  "version": "0.1.0",
+  "description": "An easy to use cache library for node with typescript support",
+  "repository": "https://github.com/iamfj/easy-cache",
+  "author": "Fabian Jocks <dev@jocks.io>",
+  "license": "MIT",
+  "keywords": [
+    "cache",
+    "caching",
+    "local",
+    "variable",
+    "multi",
+    "memory",
+    "internal",
+    "node",
+    "object",
+    "file",
+    "filebased"
+  ],
+  "tags": [
+    "cache",
+    "caching",
+    "local",
+    "variable",
+    "multi",
+    "memory",
+    "internal",
+    "node",
+    "object",
+    "file",
+    "filebased"
+  ],
+  "main": "src/easyCache.ts",
+  "private": false,
+  "engines": {
+    "node": ">= 12.22.7"
+  }
+}
