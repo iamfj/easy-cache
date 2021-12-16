@@ -5,35 +5,11 @@
   "repository": "https://github.com/iamfj/easy-cache",
   "author": "Fabian Jocks <dev@jocks.io>",
   "license": "MIT",
-  "keywords": [
-    "cache",
-    "caching",
-    "local",
-    "variable",
-    "multi",
-    "memory",
-    "internal",
-    "node",
-    "object",
-    "file",
-    "filebased"
-  ],
-  "tags": [
-    "cache",
-    "caching",
-    "local",
-    "variable",
-    "multi",
-    "memory",
-    "internal",
-    "node",
-    "object",
-    "file",
-    "filebased"
-  ],
   "main": "src/easyCache.ts",
   "private": false,
-  "engines": {
-    "node": ">= 12.22.7"
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^16.11.13",
+    "typescript": "^4.5.4"
   }
 }
